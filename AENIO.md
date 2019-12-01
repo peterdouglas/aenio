@@ -19,8 +19,7 @@ The main examples at the moment are;
 
 #### The Problem
 
-This project aims to solve several issues that are currently impeding Enterprise-like use of
-blockchains and smart contracts by the wider community.
+This project aims to solve several issues that are currently impeding Enterprise-like use of blockchains and smart contracts by the wider community.
 
 1. The current Oracles that exist are very limited in the data they they product; and while they have the ability to connect to an external API, the API still has to be verified as trusted and the data needs to be what you want. 
 
@@ -34,13 +33,9 @@ blockchains and smart contracts by the wider community.
 
 #### Proposed Solution
 
-I propose a blockchain that would have a network of Oracles integrated within it;, and
-instead of focusing on API calls, would connect to cryptographically verified Nodes that pre-
-process information (using current techniques in ML like sentiment analysis, etc) and are
-able to trigger contracts in addition to being called by contracts.
+I propose a blockchain that would have a network of Oracles integrated within it; and instead of focusing on API calls, would connect to cryptographically verified Nodes that pre-process information (using current techniques in ML like sentiment analysis, etc) and are able to trigger contracts in addition to being called by contracts.
 
-This would enable us to move smart-contracts to a more platform like language, and allow
-greater business usage and integration.
+This would enable us to move smart-contracts to a more platform like language, and allow greater business usage and integration.
 
 The Nodes in the network are not currently feasible to be smart contracts themselves for several reasons;
 
